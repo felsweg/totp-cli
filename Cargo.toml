@@ -1,0 +1,10 @@
+[package]
+name = "totp-cli"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+author = "felsweg"
+keywords = ["TOTP","one","time","password"]
+
+[dependencies]
+otpauth = "0.4"
